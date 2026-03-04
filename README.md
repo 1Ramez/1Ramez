@@ -72,11 +72,11 @@
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=1Ramez&show_icons=true&theme=tokyonight" alt="github stats"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=1Ramez&show_icons=true&theme=tokyonight&cache_seconds=1800" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1Ramez&layout=compact&theme=tokyonight" alt="top languages"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=1Ramez&layout=compact&theme=tokyonight&cache_seconds=1800" />
 </p>
 
 ---
