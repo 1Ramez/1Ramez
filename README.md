@@ -76,7 +76,7 @@
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=1Ramez&layout=compact&theme=tokyonight&cache_seconds=1800" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=1Ramez&layout=compact&theme=tokyonight&cache_seconds=10" />
 </p>
 
 ---
