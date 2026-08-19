@@ -8,7 +8,7 @@
   <a href="https://github.com/1Ramez?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/1Ramez?style=flat&logo=github">
   </a>
-  <a href="https://www.linkedin.com/in/Ramez-Mohamed-/">
+  <a href="https://www.linkedin.com/in/ramez-mohammed">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Ramez%20Mohamed-blue?logo=linkedin">
   </a>
 </p>
@@ -92,7 +92,7 @@
 
 ## 🌍 Let's Connect
 
-- 💼 LinkedIn: https://www.linkedin.com/in/Ramez-Mohamed-/
+- 💼 LinkedIn: https://www.linkedin.com/in/ramez-mohammed
 - 📧 Email: Ramezmohamed93@gmail.com
 
 ---
