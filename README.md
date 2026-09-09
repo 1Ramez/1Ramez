@@ -148,11 +148,11 @@
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=1Ramez&show_icons=true&theme=tokyonight&cache_seconds=86400" />
+  <img src="https://github-stats-extended.vercel.app/api?username=1Ramez&show_icons=true&theme=tokyonight&cache_seconds=86400" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1Ramez&layout=compact&theme=tokyonight&cache_seconds=86400" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=1Ramez&layout=compact&theme=tokyonight&cache_seconds=86400" />
 </p>
 
 ---
@@ -173,7 +173,6 @@
 
 - 💼 LinkedIn: https://www.linkedin.com/in/ramez-mohammed
 - 📧 Email: Ramezmohamed93@gmail.com
-- 💻 GitHub: https://github.com/1Ramez
 
 ---
 
