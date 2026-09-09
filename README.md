@@ -1,18 +1,15 @@
 <h1 align="left">👋 Hello there! I'm Ramez Mohamed</h1>
-
-<h3 align="left">
-  Machine Learning Engineer | Computer Science Student | FCAI - Cairo University
-</h3>
+<h3 align="left">Machine Learning Engineer | FCAI - Cairo University</h3>
 
 <p align="left">
   <a href="https://github.com/1Ramez">
-    <img src="https://komarev.com/ghpvc/?username=1Ramez&style=flat" alt="Profile Views"/>
+    <img src="https://komarev.com/ghpvc/?username=1Ramez" alt="profile views" />
   </a>
   <a href="https://github.com/1Ramez?tab=followers">
-    <img src="https://img.shields.io/github/followers/1Ramez?style=flat&logo=github" alt="GitHub Followers"/>
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/1Ramez?style=flat&logo=github">
   </a>
   <a href="https://www.linkedin.com/in/ramez-mohammed">
-    <img src="https://img.shields.io/badge/LinkedIn-Ramez%20Mohamed-blue?logo=linkedin" alt="LinkedIn"/>
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Ramez%20Mohamed-blue?logo=linkedin">
   </a>
 </p>
 
@@ -26,100 +23,172 @@
 - 🧠 Currently expanding my knowledge in **Deep Learning, Generative AI, and MLOps**
 - 💻 Strong foundation in **Python, C++, Java, Data Structures, and Algorithms**
 - 🏆 Competitive programmer with **400+ algorithmic problems solved**
-- 🚀 Passionate about turning ML concepts into practical, real-world solutions
+- 🚀 Passionate about building practical **AI/ML solutions** and continuously learning new technologies
 
 ---
 
 ## 🧠 Tech Stack
 
+> Tools & technologies I work with and continue to explore
+
 ### 🤖 Machine Learning & AI
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,azure" height="50"/>
-</p>
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Prompt%20Engineering-412991?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Amazon%20Bedrock-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-</p>
+<table>
+  <tr>
+    <td align="center" width="110">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" alt="Python"/>
+      <br>Python
+    </td>
+    <td align="center" width="110">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="48" height="48" alt="Scikit-learn"/>
+      <br>Scikit-learn
+    </td>
+    <td align="center" width="110">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="48" height="48" alt="TensorFlow"/>
+      <br>TensorFlow
+    </td>
+    <td align="center" width="110">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="48" height="48" alt="Azure"/>
+      <br>Azure
+    </td>
+    <td align="center" width="110">
+      <br>
+      <b>Amazon</b>
+      <br>Bedrock
+    </td>
+    <td align="center" width="110">
+      <br>
+      <b>Prompt</b>
+      <br>Engineering
+    </td>
+  </tr>
+</table>
 
 ### 📊 Data & Analytics
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=numpy,pandas,matplotlib" height="50"/>
-</p>
+<table>
+  <tr>
+    <td align="center" width="110">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas"/>
+      <br>Pandas
+    </td>
+    <td align="center" width="110">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="48" height="48" alt="NumPy"/>
+      <br>NumPy
+    </td>
+    <td align="center" width="110">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" width="48" height="48" alt="Matplotlib"/>
+      <br>Matplotlib
+    </td>
+    <td align="center" width="110">
+      <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/seaborn-icon.svg" width="48" height="48" alt="Seaborn"/>
+      <br>Seaborn
+    </td>
+    <td align="center" width="110">
+      <br>
+      <b>Excel</b>
+    </td>
+    <td align="center" width="110">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="48" height="48" alt="SQL"/>
+      <br>SQL
+    </td>
+  </tr>
+</table>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-</p>
+### 💻 Programming & Development
 
-### 💻 Programming
+<table>
+  <tr>
+    <td align="center" width="110">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="48" height="48" alt="C++"/>
+      <br>C++
+    </td>
+    <td align="center" width="110">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="48" height="48" alt="Java"/>
+      <br>Java
+    </td>
+    <td align="center" width="110">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript"/>
+      <br>JavaScript
+    </td>
+    <td align="center" width="110">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="48" height="48" alt="Django"/>
+      <br>Django
+    </td>
+    <td align="center" width="110">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js"/>
+      <br>Node.js
+    </td>
+    <td align="center" width="110">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="48" height="48" alt="Git"/>
+      <br>Git
+    </td>
+  </tr>
+</table>
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,js,html,css" height="50"/>
-</p>
+### 🗄️ Databases & Tools
 
-### 🌐 Development
+<table>
+  <tr>
+    <td align="center" width="110">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="48" height="48" alt="SQL Server"/>
+      <br>SQL Server
+    </td>
+    <td align="center" width="110">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="PostgreSQL"/>
+      <br>PostgreSQL
+    </td>
+    <td align="center" width="110">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDB"/>
+      <br>MongoDB
+    </td>
+    <td align="center" width="110">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" width="48" height="48" alt="SQLite"/>
+      <br>SQLite
+    </td>
+    <td align="center" width="110">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="48" height="48" alt="Jupyter Notebook"/>
+      <br>Jupyter
+    </td>
+    <td align="center" width="110">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecolab/googlecolab-original.svg" width="48" height="48" alt="Google Colab"/>
+      <br>Colab
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="110">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="48" height="48" alt="VS Code"/>
+      <br>VS Code
+    </td>
+    <td align="center" width="110">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" width="48" height="48" alt="PyCharm"/>
+      <br>PyCharm
+    </td>
+    <td align="center" width="110">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/clion/clion-original.svg" width="48" height="48" alt="CLion"/>
+      <br>CLion
+    </td>
+    <td align="center" width="110">
+      <br>
+      <b>SSMS</b>
+    </td>
+    <td align="center" width="110"></td>
+    <td align="center" width="110"></td>
+  </tr>
+</table>
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=django,nodejs,express" height="50"/>
-</p>
-
-<p align="left">
-  <img src="https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge"/>
-</p>
-
-### 🗄️ Databases
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,sqlite,mysql" height="50"/>
-</p>
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
-</p>
-
-### 🛠️ Tools & Platforms
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,clion" height="50"/>
-</p>
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SSMS-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
-</p>
-
-### 🧩 Core Concepts
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Data%20Structures-555555?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Algorithms-555555?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/OOP-555555?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Database%20Management-555555?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Software%20Engineering-555555?style=for-the-badge"/>
-</p>
+**Core:** Data Structures · Algorithms · OOP · Database Management · Software Engineering
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=1Ramez&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=300"
-    alt="Ramez's GitHub Stats"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=1Ramez&show_icons=true&theme=tokyonight&cache_seconds=300" />
 </p>
 
 <p align="left">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=1Ramez&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=300"
-    alt="Ramez's Top Languages"
-  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1Ramez&layout=compact&theme=tokyonight&cache_seconds=300" />
 </p>
 
 ---
@@ -127,122 +196,21 @@
 ## 🎯 Current Focus
 
 - 🤖 Building and experimenting with **Machine Learning projects**
-- 🧠 Strengthening my **Machine Learning & AI fundamentals**
+- 🧠 Deepening my knowledge of **ML & AI fundamentals**
 - ✨ Exploring **Generative AI and AI-powered applications**
 - ☁️ Learning **Microsoft Azure and cloud-based AI solutions**
-- 📊 Improving my skills in **Data Analysis and Visualization**
-- 🏆 Advancing my **competitive programming and problem-solving**
-- 🚀 Turning what I learn into **practical projects**
-
----
-
-## 💼 Featured Projects
-
-### 💰 Masroofy – Smart Budget Tracker
-
-**Java · JavaFX · SQLite · Maven · OpenAI API · Gemini API · Python · Pandas · Matplotlib**
-
-A desktop budget tracking application featuring:
-
-- 👤 Multi-user authentication and isolated user data
-- 💵 Customizable budget cycles and daily spending limits
-- 🤖 AI-powered budgeting assistance using **OpenAI and Gemini**
-- 📊 Spending analytics and visualization
-- 🏗️ MVC architecture
-
-🔗 [View Project](https://github.com/1Ramez/Masroofy)
-
----
-
-### 🐾 VetCare Wellness Portal
-
-**Python · Tkinter · Microsoft SQL Server · Gemini API**
-
-A veterinary clinic management system featuring:
-
-- 🗄️ CRUD operations across interconnected entities
-- 📊 Statistical dashboards and SQL reports
-- 💉 Vaccination and upcoming-visit tracking
-- 🤖 AI chatbot for veterinary assistance
-
-🔗 [View Project](https://github.com/1Ramez/VetClinic)
-
----
-
-### 📚 Book Portal
-
-**Python · Django · JavaScript · CSS · Microsoft SQL Server**
-
-A digital library platform featuring:
-
-- 📖 Book browsing, borrowing, and returning
-- 🔎 Search, filtering, ratings, and sorting
-- 👤 Custom authentication and profiles
-- 🛠️ Django administration dashboard
-- 📄 In-app PDF reading
-
-🔗 [View Project](https://github.com/1Ramez/Book-Portal)
-
----
-
-### 🏨 Hotels Booking System
-
-**Node.js · Express.js · MongoDB · Mongoose · JWT**
-
-A RESTful hotel booking API featuring:
-
-- 🔐 JWT authentication and role-based authorization
-- 🏨 Hotel, room, user, and booking management
-- 🔎 Search and filtering
-- 📄 Pagination and sorting
-- 🗄️ MongoDB document relationships
-
-🔗 [View Project](https://github.com/1Ramez/Hotels-Booking-System)
-
----
-
-### 🎮 GameBoard
-
-**C++ · Template Programming · OOP**
-
-A modular C++ framework supporting **11+ board games** through a generic template-based game engine.
-
-🔗 [View Project](https://github.com/1Ramez/GameBoard)
-
----
-
-## 🏆 Competitive Programming
-
-- 🥇 **ECPC 2026–2027:** Ranked **91st**
-- 🥈 **ECPC 2025–2026:** Ranked **112th**
-- 🧩 Solved **400+ algorithmic problems**
-- 💡 Strong interest in **Data Structures, Algorithms, and Problem Solving**
-
----
-
-## 📜 Certifications & Programs
-
-- 🤖 **Microsoft Machine Learning Engineer Trainee** — Digital Egypt Pioneers Initiative (DEPI)
-- 🏦 **Generative AI Internship** — CIB Bank
-- ☁️ **Introducing Generative AI with AWS** — Amazon Web Services
-- 💻 **Back-End Trainee (Node.js)** — Information Technology Institute (ITI)
-- 🧠 **Digital Egypt Cubs Initiative (DECI), Level 2** — MCIT
+- 📊 Working on **data analysis and visualization**
+- 🏆 Improving my **competitive programming and problem-solving skills**
+- 🚀 Turning ML concepts into practical, real-world projects
 
 ---
 
 ## 🌍 Let's Connect
 
-<p align="left">
-  <a href="https://github.com/1Ramez">
-    <img src="https://img.shields.io/badge/GitHub-1Ramez-181717?style=for-the-badge&logo=github"/>
-  </a>
-  <a href="https://www.linkedin.com/in/ramez-mohammed">
-    <img src="https://img.shields.io/badge/LinkedIn-Ramez%20Mohamed-0A66C2?style=for-the-badge&logo=linkedin"/>
-  </a>
-</p>
-
-📧 **Email:** Ramezmohamed93@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/ramez-mohammed
+- 📧 Email: Ramezmohamed93@gmail.com
+- 💻 GitHub: https://github.com/1Ramez
 
 ---
 
-⭐ *“Turning data into intelligence.”*
+⭐ *"Turning data into intelligence."*
